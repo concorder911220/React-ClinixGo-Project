@@ -86,11 +86,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## :notebook_with_decorative_cover: Kanban Board
-- Link to our [kanban-board](https://github.com/users/Strangeal/projects/3)
-- Link to initial [kanban-board-screenshot](https://user-images.githubusercontent.com/20049193/220385323-6515c1e1-0fc1-454c-af09-45e3ab48e94c.png)
-- We are **four** in the group.
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -121,13 +116,12 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Strangeal/ClinixGo.git
+  git clone https://github.com/concorder911220/ClinixGo.git
 ```
 
 ### Install
 
 Install this project dependencies with:
-
 
 ```sh
   cd ClinixGo
@@ -144,6 +138,7 @@ Create the app database:
 ```
 
 ### Usage
+
 To run the application, run the following command:
 
 ```sh
@@ -183,32 +178,6 @@ Run the below commands to generate API documentation routes:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-👨‍💻 **Justice Bajeri**
-
-- GitHub: [Justice Bajeri](https://github.com/Strangeal)
-- LinkedIn: [Justice Bajeri](https://www.linkedin.com/in/justice-bajeri-0b7211243/)
-
-👨‍💻 **Kwasi Baayeh**
-
-- GitHub: [Kwasi Baayeh](https://github.com/Baayeh/)
-- LinkedIn: [Kwasi Baayeh](https://www.linkedin.com/in/kabaayeh)
-
-👨‍💻 **Felicia G. Awuah**
-
-- GitHub: [Felicia G. Awuah](https://github.com/NahnahAJ)
-- LinkedIn: [Felicia G. Awuah](https://www.linkedin.com/in/felicia-awuah-gyedua/)
-
-👨‍💻 **Hesbon Onchera**
-
-- GitHub: [Hesbon Onchera](https://github.com/Paul-js-hub)
-- LinkedIn: [Hesbon Onchera](https://www.linkedin.com/in/paul-onchera/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
